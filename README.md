@@ -27,13 +27,13 @@
 ### 📫 Связь со мной
 
 <p align="center">
-  <a href="https://t.me/kriz1sdev">
+  <a href="https://t.me/kriz1ss">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:ggcloudes@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/kriz1ss">
+  <a href="https://github.com/kriz1sdev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
