@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
 <h1 align="center">👋 Привет, я Kriz1ss</h1>
 
 <p align="center">
