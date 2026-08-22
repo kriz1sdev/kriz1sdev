@@ -1,9 +1,7 @@
+<h1 align="center">👋 Привет, я Kriz1ss</h1>
 <p align="center">
   <img src="banner.png" width="100%" />
 </p>
-
-<h1 align="center">👋 Привет, я Kriz1ss</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Open-source+Enthusiast;Clean+Code+Advocate;Remote+Worker+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
